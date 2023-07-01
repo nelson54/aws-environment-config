@@ -1,0 +1,3 @@
+git+https://github.com/psf/black
+git+https://github.com/DiffSK/configobj
+git+https://github.com/nelson54/environment-config
